@@ -1,8 +1,7 @@
 # frontend-nanodegree-arcade-game-master
 
-#My game screenshot
 
-![screenshot game](/images/gamescreenshot.png)
+![screenshot game](https://github.com/sandrine10/frontend-nanodegree-arcade-game-master/blob/master/images/game%20screeshot.png?raw=true)                                               
 
 #Source
 
