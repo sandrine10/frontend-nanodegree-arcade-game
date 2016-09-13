@@ -33,7 +33,7 @@ Classic frogger game with visual assets and a game loop engine from Udacity. The
 - If you run out of lives, the game is over. Press the Up arrow key to refresh the page to start a new game.
 - Enjoy the game!
 
-#Resources
+#Resources Used
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
