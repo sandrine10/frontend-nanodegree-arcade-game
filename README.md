@@ -9,16 +9,16 @@
 
 This repository was downloaded from https://github.com/udacity/frontend-nanodegree-arcade-game
 
-#To run the game
+#To Run The Game
 
 Open index.html using your browser
 
 
-#What is it?
+#What Is It?
 
 Classic frogger game with visual assets and a game loop engine from Udacity. The gameplay mechanics were built as part of a nanodegree program. This game mostly focused on building objects for the enemy and player while maintain the attributes about each one of them during the game.
 
-#Technologies used
+#Technologies Used
 
 - HTML5 Canvas
 - Javascript
