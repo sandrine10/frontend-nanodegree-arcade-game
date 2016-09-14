@@ -21,7 +21,7 @@ Classic frogger game with visual assets and a game loop engine from Udacity. The
 #Technologies Used
 
 - HTML5 Canvas
-- Javascript
+- JavaScripts's object-oriented programming features
 - CSS
 
 #Playing Instructions And Objective
