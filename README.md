@@ -1,4 +1,4 @@
-# frontend-nanodegree-arcade-game-master
+# frontend-nanodegree-arcade-game
 
 [**Play the game!**](https://sandrine10.github.io/sandrine10.github.io-classic-arcade-game/)
 
