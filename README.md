@@ -1,6 +1,6 @@
 # frontend-nanodegree-arcade-game
 
-[**Play the game!**](https://sandrine10.github.io/sandrine10.github.io-classic-arcade-game/)
+[**Play the game!**](https://sandrine10.github.io/sandrine10.github.io-classic-arcade-game/) 
 
 
 ![screenshot game](https://github.com/sandrine10/frontend-nanodegree-arcade-game-master/blob/master/images/screenshot.jpg)
